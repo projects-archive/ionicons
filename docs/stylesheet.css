@@ -24,7 +24,7 @@ time, mark, audio, video {
 
 body {
   box-sizing: border-box;
-  border-top: 1px solid #4F8EF7;
+  border-top: 1px solid #fff;
   background: url("img/ionicons-logo.png") no-repeat center 65px;
   color:#373737;
   text-align: center;
@@ -300,10 +300,9 @@ li.active {
 }
 
 #snap-bar {
-  background: #2e64c3;
-  color: white;
+  height: 41px;
   text-align: center;
-  padding: 7px 10px;
+  padding: 0 10px;
   font-weight: 500;
   font-size: 14px;
   position: relative;
